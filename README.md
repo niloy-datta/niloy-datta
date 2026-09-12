@@ -78,11 +78,14 @@ Current questions: How do we measure agent reliability? How should distributed s
 
 ## 📊 Engineering activity
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=niloy-datta&show_icons=true&hide_border=true&theme=transparent&title_color=f97316&icon_color=f97316&text_color=64748b" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niloy-datta&layout=compact&hide_border=true&theme=transparent&title_color=f97316&text_color=64748b" alt="Top languages" />
-</div>
+<table>
+  <tr>
+    <td width="50%"><strong>Active engineering areas</strong><br /><br />Distributed systems · Backend architecture · AI/ML systems<br />Database design · Event-driven workflows · Reliability engineering</td>
+    <td width="50%"><strong>What to inspect</strong><br /><br /><a href="https://github.com/niloy-datta/atlas">ATLAS architecture</a><br /><a href="https://github.com/niloy-datta/novacommerce-platform">NovaCommerce experiments</a><br /><a href="https://github.com/niloy-datta/ai-systems-lab">AI Systems Lab research</a></td>
+  </tr>
+</table>
 
+<p><a href="https://github.com/niloy-datta?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0f172a?style=flat-square&logo=github&logoColor=white" alt="Repositories" /></a> <a href="https://github.com/niloy-datta/ai-systems-lab"><img src="https://img.shields.io/badge/Research%20in%20progress-10b981?style=flat-square&logo=github&logoColor=white" alt="Research in progress" /></a></p>
 ## 🧠 Engineering principles
 
 | Principle | Practice |
