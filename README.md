@@ -1,4 +1,4 @@
-# Niloy Chandra Datta
+# Mr. Datta
 
 Software engineer and researcher focused on distributed systems, AI/ML, backend engineering, and reliable scalable software.
 
