@@ -1,139 +1,103 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,75:2563eb,100:7c3aed&height=220&section=header&text=Niloy%20Chandra%20Datta&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%E2%80%A2%20Business%20Development%20%E2%80%A2%20Full-Stack%20Engineering&descAlignY=58&descSize=16" width="100%" alt="Niloy Chandra Datta" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1d4ed8,100:7c3aed&height=230&section=header&text=NILOY%20CHANDRA%20DATTA&fontSize=39&fontColor=ffffff&fontAlignY=36&desc=SOFTWARE%20DEVELOPER%20%7C%20BUILDER%20%7C%20BUSINESS%20DEVELOPMENT&descAlignY=57&descSize=14" width="100%" alt="Niloy Chandra Datta — software developer" />
 
-### I build practical software, ship real projects, and keep improving them.
+### Turning ideas into products that work.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://niloy-datta.github.io/niloy-portfolio-site/)
-[![Live Work](https://img.shields.io/badge/Live%20Projects-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white)](#-live--deployed)
-[![Repositories](https://img.shields.io/badge/Explore%20My%20Work-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niloy-datta?tab=repositories)
+**Build with purpose · Ship with care · Keep improving**
+
+[![Portfolio](https://img.shields.io/badge/EXPLORE%20PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://niloy-portfolio-3d.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niloy-datta?tab=repositories)
 
 </div>
 
 ---
 
-## 👋 About Me
+### 👋 A little about me
 
-I'm **Niloy Chandra Datta**, a CSE student and software developer who enjoys turning ideas into working products.
+I'm **Niloy Chandra Datta**, a CSE student and software developer who enjoys turning ideas into useful, working products. I work across full-stack development, backend systems, web applications, and UI/UX.
 
-Alongside software development, I currently work in **Business Development at SHL Group**, combining technology, product thinking, communication, and real-world business experience.
+I also work in **Business Development at SHL Group**, bringing product thinking, communication, and business experience into the way I build.
 
-I work across **full-stack development, backend systems, web applications, UI/UX, and software engineering**. I also build, deploy, maintain, and continuously improve real projects.
-
-> **Build useful things. Ship them. Learn from them. Make them better.**
-
----
-
-## ⚡ What I Do
+### ⚡ From idea to impact
 
 <table>
 <tr>
-<td width="33%" align="center">
-<h3>💻 Build</h3>
-Full-stack applications, backend systems, APIs, databases, and modern web experiences.
-</td>
-<td width="33%" align="center">
-<h3>🚀 Ship</h3>
-Deploy real projects, maintain live applications, and keep improving them after launch.
-</td>
-<td width="33%" align="center">
-<h3>💼 Business</h3>
-Work in Business Development with practical experience in communication, coordination, and product thinking.
-</td>
+<td width="33%" valign="top"><h3>01 / BUILD</h3>Full-stack applications, APIs, databases, and thoughtful web experiences.</td>
+<td width="33%" valign="top"><h3>02 / SHIP</h3>Deploy projects, maintain live applications, and improve them after launch.</td>
+<td width="33%" valign="top"><h3>03 / GROW</h3>Connect technology with business needs, communication, and product thinking.</td>
 </tr>
 </table>
 
----
-
-## 🌍 Live & Deployed
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🌐 Portfolio
-My personal developer portfolio and project showcase.
-
-[![Live](https://img.shields.io/badge/OPEN%20LIVE-2563EB?style=flat-square&logo=githubpages&logoColor=white)](https://niloy-datta.github.io/niloy-portfolio-site/)
-
-</td>
-<td width="33%" valign="top">
-
-### 🚢 SHL Global
-A modern business-focused web experience for logistics and global services.
-
-[![Live](https://img.shields.io/badge/OPEN%20LIVE-2563EB?style=flat-square&logo=githubpages&logoColor=white)](https://niloy-datta.github.io/shl-global/)
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🛠️ Tech I Work With
+### 🛠️ The toolkit
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,ts,js,nextjs,react,flutter,postgres,mysql,redis,kafka,docker,linux,ubuntu,bash,git,github&perline=9" alt="Technology stack" />
+<img src="https://skillicons.dev/icons?i=java,spring,python,ts,js,nextjs,react,flutter,postgres,mysql,redis,kafka,docker,aws,linux,ubuntu,bash,git,github&perline=10" alt="Java, Spring, Python, TypeScript, JavaScript, Next.js, React, Flutter, PostgreSQL, MySQL, Redis, Kafka, Docker, AWS, Linux, Ubuntu, Bash, Git and GitHub" />
 
 </div>
 
-<br />
-
-| Area | Tools & Technologies |
-| --- | --- |
-| **Backend** | Java · Spring Boot · REST APIs · SQL · JPA / Hibernate · Python |
+| | Technologies |
+| :--- | :--- |
+| **Backend** | Java · Spring Boot · Python · REST APIs · SQL · JPA / Hibernate |
 | **Frontend** | Next.js · React · TypeScript · JavaScript · Tailwind CSS |
 | **Mobile** | Flutter · Firebase |
-| **Systems** | Linux · Ubuntu · Fedora · Bash · Docker · Redis · Kafka |
-| **Workflow** | Git · GitHub · Deployment · API Integration |
+| **Cloud & systems** | AWS · Docker · Linux · Ubuntu · Fedora · Bash |
+| **Data & workflow** | PostgreSQL · MySQL · Redis · Kafka · Git · GitHub |
 
----
-
-## 🔨 Selected Projects
+### 🚀 Work in motion
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧭 ATLAS
-A workforce platform focused on identity, verification, authorization, and trusted workflows.
+**🌐 Developer Portfolio**
 
-[![Repository](https://img.shields.io/badge/View%20Repository-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/niloy-datta/atlas)
+A space for my projects, skills, and journey as a developer.
+
+[Explore the portfolio ↗](https://niloy-portfolio-3d.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 NovaCommerce
-A commerce platform exploring backend workflows, inventory, transactions, and scalable architecture.
+**💼 SHL Global**
 
-[![Repository](https://img.shields.io/badge/View%20Repository-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/niloy-datta/novacommerce-platform)
+A business-focused web experience for logistics and global services.
+
+[Visit SHL Global ↗](https://niloy-datta.github.io/shl-global/)
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**🧭 ATLAS**
+
+A workforce platform focused on identity, verification, authorization, and trusted workflows.
+
+</td>
+<td valign="top">
+
+**🛒 NovaCommerce**
+
+A commerce platform exploring backend workflows, inventory, transactions, and scalable architecture.
 
 </td>
 </tr>
 </table>
 
----
-
-## 🎯 Current Focus
+### 🎯 What drives me
 
 ```text
-Build          → practical products
-Ship           → live deployments
-Improve        → cleaner code + better UX
-Learn          → stronger software engineering
-Repeat         → every project
+IDEA  →  BUILD  →  SHIP  →  LEARN  →  IMPROVE
 ```
 
 <div align="center">
 
-### Build → Ship → Improve → Repeat
+**Let's build something useful.**
 
-**Software Development · Full-Stack Engineering · Business Development**
+[Portfolio](https://niloy-portfolio-3d.vercel.app/) · [GitHub](https://github.com/niloy-datta)
 
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:020617&height=110&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1d4ed8,100:020617&height=110&section=footer" width="100%" alt="" />
 
 </div>
