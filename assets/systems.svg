@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="278" viewBox="0 0 1440 278" role="img" aria-labelledby="title desc">
+<title id="title">How I think about software systems</title><desc id="desc">A connected four-stage diagram: Product Experience, Backend Services, Data and Events, Infrastructure. Reliability, observability, and security form a common foundation.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#091427"/><stop offset="1" stop-color="#151638"/></linearGradient>
+ <linearGradient id="accent"><stop stop-color="#5EEAD4"/><stop offset=".5" stop-color="#60A5FA"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+ <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" stroke="#CBD5E1" stroke-opacity=".055" fill="none"/></pattern>
+</defs>
+<rect x="0" y="0" width="1440" height="278" rx="18" fill="url(#bg)"/>
+<rect width="1440" height="278" rx="18" fill="url(#grid)"/>
+<text x="42" y="43" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#8DBBEE" letter-spacing="3" font-weight="700">FROM EXPERIENCE TO INFRASTRUCTURE</text>
+<text x="42" y="76" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#F8FAFC" font-weight="700">One connected engineering mindset.</text>
+<g font-family="Arial, Helvetica, sans-serif">
+ <g transform="translate(42 104)">
+  <rect width="318" height="112" rx="14" stroke="#41DBC9" stroke-opacity=".5" fill="#12303A"/>
+  <rect width="6" height="112" rx="3" fill="#40D7C4"/>
+  <text x="26" y="34" fill="#84EEE1" font-size="13" font-weight="700" letter-spacing="2">01  /  EXPERIENCE</text>
+  <text x="26" y="65" fill="#FFFFFF" font-size="22" font-weight="700">Product &amp; UI</text>
+  <text x="26" y="89" fill="#B4CAD9" font-size="14">Human-first interactions</text>
+ </g>
+ <g transform="translate(389 104)">
+  <rect width="318" height="112" rx="14" stroke="#60A5FA" stroke-opacity=".58" fill="#182A49"/>
+  <rect width="6" height="112" rx="3" fill="#60A5FA"/>
+  <text x="26" y="34" fill="#98CDFF" font-size="13" font-weight="700" letter-spacing="2">02  /  LOGIC</text>
+  <text x="26" y="65" fill="#FFFFFF" font-size="22" font-weight="700">Backend &amp; APIs</text>
+  <text x="26" y="89" fill="#B4CAD9" font-size="14">Correctness before complexity</text>
+ </g>
+ <g transform="translate(736 104)">
+  <rect width="318" height="112" rx="14" stroke="#8A91FF" stroke-opacity=".6" fill="#22264E"/>
+  <rect width="6" height="112" rx="3" fill="#8A91FF"/>
+  <text x="26" y="34" fill="#C0B4FF" font-size="13" font-weight="700" letter-spacing="2">03  /  STATE</text>
+  <text x="26" y="65" fill="#FFFFFF" font-size="22" font-weight="700">Data &amp; Events</text>
+  <text x="26" y="89" fill="#B4CAD9" font-size="14">Consistency across workflows</text>
+ </g>
+ <g transform="translate(1083 104)">
+  <rect width="315" height="112" rx="14" stroke="#AA88FA" stroke-opacity=".6" fill="#2B244D"/>
+  <rect width="6" height="112" rx="3" fill="#AA88FA"/>
+  <text x="26" y="34" fill="#D0B7FF" font-size="13" font-weight="700" letter-spacing="2">04  /  DELIVERY</text>
+  <text x="26" y="65" fill="#FFFFFF" font-size="22" font-weight="700">Cloud &amp; Operations</text>
+  <text x="26" y="89" fill="#B4CAD9" font-size="14">Reliable deployment paths</text>
+ </g>
+</g>
+<g fill="none" stroke="url(#accent)" stroke-width="2"><path d="M360 160H389"/><path d="M707 160H736"/><path d="M1054 160H1083"/></g>
+<g fill="#A5E9FF"><path d="M381 155L389 160L381 165"/><path d="M728 155L736 160L728 165"/><path d="M1075 155L1083 160L1075 165"/></g>
+<path d="M42 244H1398" stroke="url(#accent)" stroke-width="1.5" stroke-opacity=".6"/>
+<g font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#AFC4E2" font-weight="700" letter-spacing="2"><text x="42" y="266">SECURITY</text><text x="374" y="266">OBSERVABILITY</text><text x="765" y="266">RELIABILITY</text><text x="1142" y="266">PERFORMANCE</text></g>
+</svg>
