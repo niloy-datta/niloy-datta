@@ -51,46 +51,21 @@ I enjoy taking an idea all the way from a sketch to a working product: understan
 
 <table>
 <tr>
-<td width="50%" valign="top">
-  <h3>🌱 AgriLume AI</h3>
-  <p><strong>Environmental data → agricultural intelligence</strong></p>
-  <p>Satellite and geospatial data-driven experiences for field insights, resilience, and better agricultural decisions.</p>
-  <p><code>Next.js · Python · Earth Observation · AI</code></p>
-  <p><a href="https://agrilume-web.vercel.app/"><strong>Explore project ↗</strong></a></p>
-</td>
-<td width="50%" valign="top">
-  <h3>🚀 Echoes Beyond Earth</h3>
-  <p><strong>Interactive exploration powered by science</strong></p>
-  <p>A space-exploration game built around missions, environments, and learning through interaction.</p>
-  <p><code>Next.js · TypeScript · Three.js · NASA Data</code></p>
-  <p><a href="https://echoes-beyond-earth.onrender.com/"><strong>Explore project ↗</strong></a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
   <h3>🛡️ ATLAS</h3>
   <p><strong>Identity-first workforce infrastructure</strong></p>
   <p>A workforce platform exploring verified identities, authorization boundaries, credential workflows, and trusted operations.</p>
   <p><code>Backend Architecture · Identity · Authorization</code></p>
   <p><a href="https://atlas-nine-taupe.vercel.app/"><strong>Explore project ↗</strong></a></p>
 </td>
-<td width="50%" valign="top">
-  <h3>🛒 NovaCommerce</h3>
-  <p><strong>Transactions that hold up under pressure</strong></p>
-  <p>A distributed commerce engineering project focused on inventory reservation, concurrency control, and transactional correctness.</p>
-  <p><code>Distributed Systems · Transactions · Concurrency</code></p>
-  <p><em>Private development project</em></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
   <h3>🌍 SHL Global</h3>
   <p><strong>Technology for international business</strong></p>
   <p>Business-oriented web experiences and operations tooling for international logistics, trading, and services.</p>
   <p><code>Web Engineering · Business Systems · UX</code></p>
   <p><a href="https://shl-global.vercel.app/"><strong>Explore project ↗</strong></a></p>
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
   <h3>✦ KADHAVIRA LABS</h3>
   <p><strong>Ideas → software → products</strong></p>
   <p>My independent technology studio direction, spanning software, AI, SaaS, cloud, and research-driven product work.</p>
